@@ -1,1 +1,1 @@
-key = "paste your api key here"
+key = "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"
